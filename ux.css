@@ -6,7 +6,7 @@ body{
     font-size:.9375rem;
     line-height:1.25rem;
     color:#000;
-    background-image: linear-gradient(to right , #1b1b1b, #1b1b1b), url(./illustration.jpg);
+    background-image: linear-gradient(to right , #1b1b1b6e, #1b1b1b6e), url(./illustration.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
